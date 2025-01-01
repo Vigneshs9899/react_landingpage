@@ -28,7 +28,7 @@ GitHub Pages: Deployment platform
 To run this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/vigneshs9899.github.io/react_landingpage/
 cd your-repo-name
 
 Install dependencies:
