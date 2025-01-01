@@ -9,7 +9,8 @@ Installation
 Usage
 Deployment
 Contributing
-License
+Contact
+
 
 🛠️ About the Project
 This project is a simple, responsive landing page designed for a car company. It serves as a portfolio project to showcase my React.js skills and provides a clean, modern interface for potential customers.
