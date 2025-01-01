@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 git clone https://github.com/vigneshs9899.github.io/react_landingpage/
-cd your-repo-name
+cd react_landingpage
 
 Install dependencies:
 npm install
